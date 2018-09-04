@@ -25,5 +25,7 @@ public class Main {
         m.Print(new InsertSort(arr).insertSort());
         System.out.print("quickSort: ");
         m.Print(new QuickSort(arr).quickSort());
+        System.out.print("shellSort: ");
+        m.Print(new ShellSort(arr).shellSort());
     }
 }
