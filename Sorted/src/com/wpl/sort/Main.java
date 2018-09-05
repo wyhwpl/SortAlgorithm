@@ -27,5 +27,7 @@ public class Main {
         m.Print(new QuickSort(arr).quickSort());
         System.out.print("shellSort: ");
         m.Print(new ShellSort(arr).shellSort());
+        System.out.print("heapSort: ");
+        m.Print(new HeapSort(arr).heapSort());
     }
 }
