@@ -1,5 +1,8 @@
 package com.wpl.sort;
 
+/**
+ * 快速排序
+ */
 public class QuickSort {
 
     private int[] arr;

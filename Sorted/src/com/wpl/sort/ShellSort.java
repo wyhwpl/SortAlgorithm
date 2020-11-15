@@ -1,5 +1,8 @@
 package com.wpl.sort;
 
+/**
+ * 希尔排序
+ */
 public class ShellSort {
 
     private int[] arr;

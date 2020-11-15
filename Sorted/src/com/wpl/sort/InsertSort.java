@@ -1,5 +1,8 @@
 package com.wpl.sort;
 
+/**
+ * 插入排序
+ */
 public class InsertSort {
 
     private int[] arr;

@@ -1,5 +1,8 @@
 package com.wpl.sort;
 
+/**
+ * 选择排序
+ */
 public class SelectionSort {
 
     private int[] arr;
